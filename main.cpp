@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    out << "IT FUCKING RAINED!" << endl;
+    cout << "IT FUCKING RAINED!" << endl;
+    cout << "Fixed" <<endl;
     return 0;
 }
